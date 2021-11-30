@@ -32,6 +32,7 @@
             "value": "https://raw.githubusercontent.com/Keith094/juliana/master/etc/StoreFiles"
         }
     },
+    "website": "https://github.com/Keith094/juliana",
     "repository": "https://github.com/Keith094/juliana",
     "stack": "container"
 }
